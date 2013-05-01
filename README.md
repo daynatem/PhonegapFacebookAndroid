@@ -3,7 +3,8 @@ PhonegapFacebookAndroid
 
 Facebook implementation on Phonegap Cordova Android
 
-Cordova 2.6
+Cordova 2.6+
+PhoneGap 2.7.0+
 Childbrowser
 Android 2.2+
 Facebook JavaScript
@@ -14,3 +15,5 @@ https://github.com/purplecabbage/phonegap-plugins/tree/master/iPhone/ChildBrowse
 Instructions
 
 Just only change client_id for you facebook app id on index.html
+
+@daynatem salvador almaraz
